@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cevin-Yu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Cevin-Yu/Cevin-Yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
